@@ -1,6 +1,6 @@
 # Hi there, i'm Ivan
 
-![My photo](portfolio.JPG)
+![My photo](portfolio.jpg)
 
 I am a beginner python developer
 
